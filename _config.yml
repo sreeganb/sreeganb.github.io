@@ -6,12 +6,16 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Sree's Blog
-email: sreeuci@gmail.com        
+title: Sree Ganesh Balasubramani
+email: sreeganb@uci.edu        
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This website will contain Sree's perspectives on quantum chemistry
+  in general and density functional theory in particular. Sree is 
+  currently in grad school at UC Irvine in Prof. Filipp Furche's 
+  research group. He works on cool stuff such as time-dependent
+  random phase approximation. Grad school he figures is a bottomless
+  abyss, cold and unfriendly place which needs to be crossed as qucikly
+  as possible. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
