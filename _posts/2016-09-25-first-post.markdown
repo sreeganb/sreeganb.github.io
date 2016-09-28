@@ -6,3 +6,4 @@ categories: checking out the utilities
 ---
 
 The external potential is a unique functional of the ground state density.
+[I'm an inline-style link](https://www.google.com)
