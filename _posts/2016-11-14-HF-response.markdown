@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Density Functional Theory (DFT)"
-date:   2016-09-25 06:46:48 -0700
+title:  "Hartree-Fock density matrix response"
+date:   2016-11-14 06:46:48 -0700
 categories: checking out the utilities
 ---
 
