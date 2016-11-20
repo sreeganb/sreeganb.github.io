@@ -1,14 +1,6 @@
 <script type="text/javascript" async
   src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
----
-layout: post
-title:  "HF density matrix response"
-date:   2016-11-14 06:46:48 -0700
-categories: checking out the utilities
----
-HF static polarizability
-========================
 
 Consider the Lagrangian for HF density matrix
 
