@@ -24,12 +24,12 @@ it can be seen that
 $$D_{sq}\delta_{qr} + D_{ps}\delta_{qr} + \sum_{tu}\lambda^{(1)}_{pqtu}\left(F_{su}\delta_{rt} + F_{ts}\delta_{ru}  
   + 2 \left[(tu|rs) - (tr|us) \right] + \lambda^{(2)}_{pqtu} \left(S_{su}\delta_{tr} + S_{ts}\delta_{ru}\right) \right) = 0 \qquad\quad$$
 
-When $r=i$ and $s=a$
+When $$r=i$$ and $$s=a$$
 
 $$D_{aq}\delta_{pi} + D_{pa}\delta_{qi} + \sum_{tu}\lambda^{(1)}_{pqtu}\left(F_{au}\delta_{it} + F_{ta}\delta_{iu}  
   + 2 \left[(tu|ia) - (ti|ua) \right] + \lambda^{(2)}_{pqtu} \left(S_{au}\delta_{ti} + S_{ta}\delta_{iu}\right) \right) = 0 \label{eq:orbrot1}\qquad\quad$$
 
-and when $r=a$ and $s=i$
+and when $$r=a$$ and $$s=i$$
 
 $$D_{iq}\delta_{pa} + D_{pi}\delta_{qa} + \sum_{tu}\lambda^{(1)}_{pqtu}\left(F_{iu}\delta_{at} + F_{ti}\delta_{au}  
   + \lambda^{(2)}_{pqtu} \left(S_{iu}\delta_{ta} + S_{ti}\delta_{au}\right) \right) = 0\label{eq:orbrot2} \qquad$$
@@ -45,5 +45,5 @@ D_{iq}\delta_{pa} + D_{pi}\delta_{qa} &= \sum_{tu} \lambda_{pqtu} \left(F_{au}\d
 &=\sum_{tu} \lambda_{pqtu}\left((\epsilon_{a}-\epsilon_i)\delta_{ta}\delta_{iu} + (\epsilon_a-\epsilon_i)\delta_{ti}\delta_{au} + 2 \left[(tu|ia) - (ti|ua) \right]\right)
 \end{split}$$
 
-where the terms involving $S$ cancel out when the equations are
+where the terms involving $$S$$ cancel out when the equations are
 subtracted.
