@@ -32,3 +32,36 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+
+#where things are
+
+source: .
+destination: ./_site
+layouts: ./_layouts
+data_source: ./_data
+collections: null
+
+#Handling Reading
+
+safe: false
+include: [".htaccess"]
+exclude: []
+keep_files: [".git", ".svn"]
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+# Conversion
+
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+
+redcarpet: 
+    extensions: []
+
+coderay: 
+    coderay_wrap: div
+    coderay_line_numbers: inline 
+    coderay_bold_every: 10
+    coderay_css: style
+    coderay_tab_width: 4
