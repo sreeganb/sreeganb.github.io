@@ -25,10 +25,10 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  sreeganb
 
 # Build settings
-#markdown: kramdown
-#theme: minima
-#gems:
-#  - jekyll-feed
-#exclude:
-#  - Gemfile
-#  - Gemfile.lock
+markdown: kramdown
+theme: minima
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
