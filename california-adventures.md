@@ -1,6 +1,5 @@
 ---
 layout: page
-title: California-Adventures
-permalink: /cal-ad/
+title: "California-Adventures"
 ---
 ![Monterey](/assets/img/front.jpg){:class="img-responsive"}
