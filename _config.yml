@@ -63,3 +63,8 @@ coderay:
     coderay_bold_every: 10
     coderay_css: style
     coderay_tab_width: 4
+gems:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-polyglot
+  - jekyll-seo-tag
