@@ -24,7 +24,7 @@ github_username:  sreeganb
 
 # Build settings
 markdown: kramdown
-theme: minimal
+theme: jekyll-theme-minimal
 exclude:
   - Gemfile
   - Gemfile.lock
