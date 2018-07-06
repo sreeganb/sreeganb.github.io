@@ -4,7 +4,11 @@ title:  "Block Davidson Algorithm"
 date:   2017-08-24 15:58:41 -0700
 categories: jekyll update
 ---
-The Block Davidson algorithm
+The Block Davidson algorithm. My attempt at understanding 
+the algorithm so that I can manipulate it specifically for 
+calculating linear response properties of the generalized 
+Kohn-Sham based random phase 
+approximation (GKS-RPA) method.
 
 {% highlight python %}
 import numpy as np
