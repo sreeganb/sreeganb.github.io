@@ -28,6 +28,7 @@ theme: minima
 exclude:
   - Gemfile
   - Gemfile.lock
+# remote_theme: mmistakes/minimal-mistakes
 
 #where things are
 
