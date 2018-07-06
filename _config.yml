@@ -19,7 +19,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Theoretical Chemistry: Electronic structure method development and applications
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: jekyllrb
+twitter_username: turbomoler
 github_username:  sreeganb
 
 # Build settings
