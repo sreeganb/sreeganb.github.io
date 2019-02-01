@@ -8,7 +8,7 @@ The Block Davidson algorithm. My attempt at understanding
 the algorithm so that I can manipulate it specifically for 
 calculating linear response properties of the generalized 
 Kohn-Sham based random phase 
-approximation (GKS-RPA) method.
+approximation (GKS-RPA) method. (Polarizabilities and excitation energies)
 
 {% highlight python %}
 import numpy as np
