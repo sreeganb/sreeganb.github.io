@@ -62,4 +62,4 @@ style:
 permalink: pretty
 paginate: 10  
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-slate
