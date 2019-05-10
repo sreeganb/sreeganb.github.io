@@ -1,18 +1,16 @@
 title: Sree Ganesh Balasubramani
 email: sreeganb@uci.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Theoretical Chemistry: Electronic structure method development and applications
+   Electronic structure theory and applications
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://sreeganb.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: turbomoler
 github_username:  sreeganb
 
 # Build settings
 markdown: kramdown
-# theme: jekyll-theme-slate
-exclude:
-  - Gemfile
-  - Gemfile.lock
+mathjax: true
+
 # remote_theme: mmistakes/minimal-mistakes
 
 #where things are
@@ -32,34 +30,3 @@ keep_files: [".git", ".svn"]
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
-# Conversion
-
-highlighter: rouge
-lsi: false
-excerpt_separator: "\n\n"
-
-redcarpet: 
-    extensions: []
-include: ['_pages']
-coderay: 
-    coderay_wrap: div
-    coderay_line_numbers: inline 
-    coderay_bold_every: 10
-    coderay_css: style
-    coderay_tab_width: 4
-gems:
-  - jekyll-feed
-  - jekyll-paginate
-  - jekyll-polyglot
-  - jekyll-seo-tag
-style:
-  body: 'white'
-  margin: 0%
-  padding: 20%
-  nav: "#222"
-  articles: 'dark' # 'light' 'dark' and 'stripe' possible
-  uppercase: true
-permalink: pretty
-paginate: 10  
-
-theme: jekyll-theme-slate
