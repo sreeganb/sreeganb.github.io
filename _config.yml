@@ -1,3 +1,5 @@
+# theme: "jekyll-theme-clean-blog"
+
 title: Sree Ganesh Balasubramani
 email: sreeganb@uci.edu
 description: > # this means to ignore newlines until "baseurl:"
@@ -9,9 +11,16 @@ github_username:  sreeganb
 
 # Build settings
 markdown: kramdown
-mathjax: true
 
-# remote_theme: mmistakes/minimal-mistakes
+# Build settings
+markdown:           kramdown
+mathjax:            true
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
 
 #where things are
 
@@ -21,10 +30,5 @@ layouts: ./_layouts
 data_source: ./_data
 collections: null
 
-#Handling Reading
-
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
-
-
-theme: "jekyll-theme-clean-blog"
